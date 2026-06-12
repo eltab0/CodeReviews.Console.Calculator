@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CalculatorLibrary/CalculatorLibrary.csproj" Id="3d6d627f-9823-4601-8359-e27050891e98" />
+  <Project Path="CyrillParfen.Calculator/Calculator.csproj" />
+</Solution>
